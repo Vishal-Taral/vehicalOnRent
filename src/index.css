@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #4b6cb7 #f1f1f1;
+}
+
+::-webkit-scrollbar {
+  width: 1px; /* Minimum value for most browsers */
+  height: 1px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #4b6cb7;
+  border-radius: 10px;
+  transform: scaleX(0.1); /* To simulate a thinner look */
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+

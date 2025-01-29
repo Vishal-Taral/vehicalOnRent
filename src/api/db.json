@@ -1,0 +1,278 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "carName": "suzuki",
+      "rent": 100
+    },
+    {
+      "id": "2",
+      "carName": "tata",
+      "rent": 200
+    },
+    {
+      "id": "3",
+      "carName": "audi",
+      "rent": 250
+    },
+    {
+      "id": "4",
+      "carName": "BMW",
+      "rent": 230
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "name": "Sedan Car",
+      "vehicleType": "Car",
+      "city": "Mumbai",
+      "pricePerDay": 1500,
+      "startDate": "2025-01-16T08:00",
+      "endDate": "2025-01-20T20:00"
+    },
+    {
+      "id": 2,
+      "name": "Bike",
+      "vehicleType": "Two-Wheeler",
+      "city": "Pune",
+      "pricePerDay": 500,
+      "startDate": "2025-01-15T08:00",
+      "endDate": "2025-01-18T20:00"
+    },
+    {
+      "id": 2,
+      "name": "Bike",
+      "vehicleType": "Two-Wheeler",
+      "city": "Pune",
+      "pricePerDay": 500,
+      "startDate": "2025-01-15T08:00",
+      "endDate": "2025-01-18T20:00"
+    },
+    {
+      "id": 2,
+      "name": "Bike",
+      "vehicleType": "Two-Wheeler",
+      "city": "Pune",
+      "pricePerDay": 500,
+      "startDate": "2025-01-15T08:00",
+      "endDate": "2025-01-18T20:00"
+    }
+  ],
+  "cars": [
+    {
+      "id": "1",
+      "name": "Honda Civic",
+      "version": "2023 Sport",
+      "img": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg",
+      "pricePerHour": 10,
+      "condition": "Excellent",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "mileage": "16 km/l",
+      "color": "White",
+      "availability": true
+    },
+    {
+      "id": "2",
+      "name": "Toyota Corolla",
+      "version": "2022 Hybrid",
+      "img": "https://imgd.aeplcdn.com/370x208/n/cw/ec/170173/dzire-2024-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+      "pricePerHour": 12,
+      "condition": "Good",
+      "fuelType": "Hybrid",
+      "seatingCapacity": 5,
+      "mileage": "23 km/l",
+      "color": "Blue",
+      "availability": true
+    },
+    {
+      "id": "3",
+      "name": "Yamaha R15",
+      "version": "V4",
+      "img": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg",
+      "pricePerHour": 15,
+      "condition": "Very Good",
+      "fuelType": "Petrol",
+      "seatingCapacity": 2,
+      "mileage": "45 km/l",
+      "color": "Black",
+      "availability": false
+    },
+    {
+      "id": "4",
+      "name": "Suzuki Gixxer",
+      "version": "SF 250",
+      "img": "https://imgd.aeplcdn.com/370x208/n/cw/ec/170173/dzire-2024-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+      "pricePerHour": 12,
+      "condition": "Excellent",
+      "fuelType": "Petrol",
+      "seatingCapacity": 2,
+      "mileage": "40 km/l",
+      "color": "Red",
+      "availability": true
+    },
+    {
+      "id": "5",
+      "name": "Tesla Model 3",
+      "version": "2023 Performance",
+      "img": "https://www.topgear.com/sites/default/files/2022/03/TopGear%20-%20Tesla%20Model%20Y%20-%20003.jpg",
+      "pricePerHour": 30,
+      "condition": "Like New",
+      "fuelType": "Electric",
+      "seatingCapacity": 5,
+      "mileage": "500 km/charge",
+      "color": "Silver",
+      "availability": true
+    },
+    {
+      "id": "6",
+      "name": "Tesla Model 3",
+      "version": "2023 Performance",
+      "img": "https://www.topgear.com/sites/default/files/2022/03/TopGear%20-%20Tesla%20Model%20Y%20-%20003.jpg",
+      "pricePerHour": 30,
+      "condition": "Like New",
+      "fuelType": "Electric",
+      "seatingCapacity": 5,
+      "mileage": "500 km/charge",
+      "color": "Silver",
+      "availability": true
+    },
+    {
+      "id": "7",
+      "name": "Tesla Model 3",
+      "version": "2023 Performance",
+      "img": "https://www.topgear.com/sites/default/files/2022/03/TopGear%20-%20Tesla%20Model%20Y%20-%20003.jpg",
+      "pricePerHour": 30,
+      "condition": "Like New",
+      "fuelType": "Electric",
+      "seatingCapacity": 5,
+      "mileage": "500 km/charge",
+      "color": "Silver",
+      "availability": true
+    },
+    {
+      "id": "7",
+      "name": "Tesla Model 3",
+      "version": "2023 Performance",
+      "img": "https://www.topgear.com/sites/default/files/2022/03/TopGear%20-%20Tesla%20Model%20Y%20-%20003.jpg",
+      "pricePerHour": 30,
+      "condition": "Like New",
+      "fuelType": "Electric",
+      "seatingCapacity": 5,
+      "mileage": "500 km/charge",
+      "color": "Silver",
+      "availability": true
+    }
+  ],
+  "bikes": [
+    {
+      "id": "1",
+      "name": "Royal Enfield Classic 350",
+      "version": "2023 ABS",
+      "img": "https://stat.overdrive.in/wp-content/odgallery/2022/08/63809_2022_Royal_Enfield_Hunter_350_468x263.jpg",
+      "pricePerHour": 10,
+      "condition": "Excellent",
+      "fuelType": "Petrol",
+      "mileage": "35 km/l",
+      "color": "Black",
+      "availability": true
+    },
+    {
+      "id": "2",
+      "name": "Bajaj Pulsar NS200",
+      "version": "BS6",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D030HsmQkb2KQxTbvX-NDc_8A7CbjFcD89GjnFiPGfwharC5tEY4S3o&s",
+      "pricePerHour": 8,
+      "condition": "Very Good",
+      "fuelType": "Petrol",
+      "mileage": "40 km/l",
+      "color": "Blue",
+      "availability": false
+    },
+    {
+      "id": "3",
+      "name": "KTM Duke 390",
+      "version": "2023 Model",
+      "img": "https://stat.overdrive.in/wp-content/odgallery/2022/08/63809_2022_Royal_Enfield_Hunter_350_468x263.jpg",
+      "pricePerHour": 12,
+      "condition": "Like New",
+      "fuelType": "Petrol",
+      "mileage": "30 km/l",
+      "color": "Orange",
+      "availability": true
+    },
+    {
+      "id": "4",
+      "name": "Hero Splendor Plus",
+      "version": "Xtec",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D030HsmQkb2KQxTbvX-NDc_8A7CbjFcD89GjnFiPGfwharC5tEY4S3o&s",
+      "pricePerHour": 5,
+      "condition": "Good",
+      "fuelType": "Petrol",
+      "mileage": "60 km/l",
+      "color": "White",
+      "availability": true
+    },
+    {
+      "id": "5",
+      "name": "TVS Apache RTR 160",
+      "version": "BS6 Disc",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D030HsmQkb2KQxTbvX-NDc_8A7CbjFcD89GjnFiPGfwharC5tEY4S3o&s",
+      "pricePerHour": 7,
+      "condition": "Excellent",
+      "fuelType": "Petrol",
+      "mileage": "60 km/l",
+      "color": "White",
+      "availability": true
+    },
+    {
+      "id": "5",
+      "name": "TVS Apache RTR 160",
+      "version": "BS6 Disc",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D030HsmQkb2KQxTbvX-NDc_8A7CbjFcD89GjnFiPGfwharC5tEY4S3o&s",
+      "pricePerHour": 7,
+      "condition": "Excellent",
+      "fuelType": "Petrol",
+      "mileage": "60 km/l",
+      "color": "White",
+      "availability": true
+    },
+    {
+      "id": "5",
+      "name": "TVS Apache RTR 160",
+      "version": "BS6 Disc",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D030HsmQkb2KQxTbvX-NDc_8A7CbjFcD89GjnFiPGfwharC5tEY4S3o&s",
+      "pricePerHour": 7,
+      "condition": "Excellent",
+      "fuelType": "Petrol",
+      "mileage": "60 km/l",
+      "color": "White",
+      "availability": true
+    },
+    {
+      "id": "5",
+      "name": "TVS Apache RTR 160",
+      "version": "BS6 Disc",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D030HsmQkb2KQxTbvX-NDc_8A7CbjFcD89GjnFiPGfwharC5tEY4S3o&s",
+      "pricePerHour": 7,
+      "condition": "Excellent",
+      "fuelType": "Petrol",
+      "mileage": "60 km/l",
+      "color": "White",
+      "availability": true
+    },
+    {
+      "id": "5",
+      "name": "TVS Apache RTR 160",
+      "version": "BS6 Disc",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D030HsmQkb2KQxTbvX-NDc_8A7CbjFcD89GjnFiPGfwharC5tEY4S3o&s",
+      "pricePerHour": 7,
+      "condition": "Excellent",
+      "fuelType": "Petrol",
+      "mileage": "60 km/l",
+      "color": "White",
+      "availability": true
+    }
+  ]
+}
