@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Banner from "../components/Banner";
 import styles from "../styles/Home.module.scss";
-import Card from "../components/card";
+import Card from "../components/Card";
 import Footer from "../components/Footer";
 import { carDetails } from "../api/mockData";
 import Features from "../components/Features";
