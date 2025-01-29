@@ -3,7 +3,7 @@ import axios from "axios";
 import Filter from "../components/Filter";
 import VehicalCard from "../components/VehicalCard";
 import Error from "../components/Error";
-import VehicalDetailPopup from "../components/vehicalDetailPopup";
+import VehicalDetailPopup from "../components/VehicalDetailPopup";
 import {carsData} from '../api/mockData';
 
 const Cars = () => {
